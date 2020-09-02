@@ -17,11 +17,12 @@
 <br>
 <p><em>NOTICE: It doesn't indicate my skill level, it's things I've learned and used in my projects</em></p>
 <br>
+
 <div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyen-quoc-thai&layout=compact&hide=c%23,c%2B%2B&theme=radical" alt="nguyen-quoc-thai" /></div>
+<div><br><img align="center" src="https://github-readme-stats.vercel.app/api?username=nguyen-quoc-thai&count_private=true&show_icons=true&theme=radical&layout=compact&hide=prs,issues" alt="nguyen-quoc-thai" /></div>
+<div><br><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nguyen-quoc-thai&repo=coronavirus-update&theme=radical" alt="nguyen-quoc-thai" /></div>
 
-<div>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nguyen-quoc-thai&count_private=true&show_icons=true&theme=radical&layout=compact&hide=prs,issues" alt="nguyen-quoc-thai" /></div>
-<div>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nguyen-quoc-thai&repo=coronavirus-update&theme=radical" alt="nguyen-quoc-thai" /></div>
-
+<br>
 <br>
 <p align="center">
 <a href="https://dev.to/nguyenquocthai" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="nguyenquocthai" height="30" width="30" /></a>
