@@ -19,7 +19,7 @@
 <br>
 
 <div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyen-quoc-thai&layout=compact&hide=c%23,c%2B%2B&theme=radical" alt="nguyen-quoc-thai" /></div>
-<div><br><img align="center" src="https://github-readme-stats.vercel.app/api?username=nguyen-quoc-thai&count_private=true&show_icons=true&theme=radical&layout=compact&hide=issues" alt="nguyen-quoc-thai" /></div>
+<div><br><img align="center" src="https://github-readme-stats.vercel.app/api?username=nguyen-quoc-thai&count_private=true&show_icons=true&theme=radical&layout=compact" alt="nguyen-quoc-thai" /></div>
 
 <br>
 <br>
